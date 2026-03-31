@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">我的记账本</string>
+    <string name="auto_record_desc">自动记录支付宝和微信支付信息</string>
+</resources>
